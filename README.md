@@ -24,21 +24,20 @@ Aqui estão alguns projetos que desenvolvi para praticar e construir meu portfó
 Um portfólio pessoal para um músico, com seções de repertório, agenda de shows e um formulário de contato. O site é responsivo e foi publicado usando um fluxo de trabalho automatizado.
 - **Tecnologias:** HTML, CSS, Formspree, Netlify
 - **Link ao vivo:** marlon-lotici-musico.netlify.app
-- **Repositório:** [Adicionar link do repositório aqui]
 
 #### 🎮 Jogo da Velha com IA
 
 Um jogo clássico com uma inteligência artificial (IA) imbatível, implementada com o algoritmo Minimax.
 - **Tecnologias:** HTML, CSS, JavaScript (com lógica avançada)
 - **Link ao vivo:**  aquamarine-peony-b72854.netlify.app
-- **Repositório:** [Adicionar link do repositório aqui]
+
 
 #### 🧮 Calculadora Funcional
 
 Uma calculadora com design moderno que realiza operações matemáticas básicas.
 - **Tecnologias:** HTML, CSS, JavaScript
 - **Link ao vivo:** timely-piroshki-03e5ec.netlify.app
-- **Repositório:** [Adicionar link do repositório aqui]
+
 
 ---
 
