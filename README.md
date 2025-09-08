@@ -1,5 +1,12 @@
+Parceiro de Programacao
+Claro! Fico feliz em ajudar a manter seu portfólio sempre atualizado.
+
+Adicionei o projeto "Clima e Notícias" com uma descrição clara, as tecnologias que você utilizou e um placeholder para o link ao vivo.
+
+Aqui está o seu arquivo README.md totalmente atualizado. Pode copiá-lo e colar diretamente no seu GitHub.
+
 Olá, sou Marlon Lotici! 👋
-Desenvolvedor Front-end | Músico |
+Desenvolvedor Front-end | Músico | Aprendiz
 Sou um apaixonado por música e programação, sempre em busca de novos desafios para aprimorar minhas habilidades. Este perfil é um espaço para documentar minha jornada no desenvolvimento web e exibir os projetos que construo.
 
 Minhas Habilidades
@@ -24,6 +31,15 @@ Tecnologias: React.js, React Router DOM, Context API, CSS, Font Awesome, Fake St
 Funcionalidades: Listagem de produtos, detalhes do produto, carrinho de compras, checkout, design responsivo, tratamento de erros e estados de carregamento.
 
 Link ao vivo: (adicione aqui o link para o projeto hospedado)
+
+🌤️ Clima e Notícias
+Uma página web que consome dados de APIs externas para exibir a previsão do tempo e as últimas notícias. Este projeto demonstra a habilidade de integrar e manipular dados de diferentes fontes de forma dinâmica.
+
+Tecnologias: HTML, CSS, JavaScript, API de Clima, API de Notícias
+
+Link ao vivo: (adicione aqui o link para o projeto hospedado)
+
+Repositório: github.com/MarlonLotici/Clima-e-Not-cias
 
 🎶 Portfólio de Músico
 Um portfólio pessoal para um músico, com seções de repertório, agenda de shows e um formulário de contato. O site é responsivo e foi publicado usando um fluxo de trabalho automatizado.
