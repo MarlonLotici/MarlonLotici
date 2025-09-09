@@ -40,7 +40,7 @@ Um portfólio pessoal para um músico, com seções de repertório, agenda de sh
 
 Tecnologias: HTML, CSS, Formspree, Netlify
 
-Link ao vivo: marlon-lotici-musico.netlify.app
+Link ao vivo: https://marlon-lotici-musico.netlify.app/
 
 🎮 Jogo da Velha com IA
 Um jogo clássico com uma inteligência artificial (IA) imbatível, implementada com o algoritmo Minimax.
