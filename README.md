@@ -47,13 +47,13 @@ Um jogo clássico com uma inteligência artificial (IA) imbatível, implementada
 
 Tecnologias: HTML, CSS, JavaScript (com lógica avançada)
 
-Link ao vivo: aquamarine-peony-b72854.netlify.app
+Link ao vivo: https://aquamarine-peony-b72854.netlify.app/
 
 🧮 Calculadora Funcional
 Uma calculadora com design moderno que realiza operações matemáticas básicas.
 
 Tecnologias: HTML, CSS, JavaScript
 
-Link ao vivo: timely-piroshki-03e5ec.netlify.app
+Link ao vivo: https://timely-piroshki-03e5ec.netlify.app/
 
 Conecte-se Comigo!
