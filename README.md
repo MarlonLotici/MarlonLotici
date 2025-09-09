@@ -1,6 +1,6 @@
 
 Olá, sou Marlon Lotici! 👋
-Desenvolvedor Front-end | Músico | Aprendiz
+Desenvolvedor Front-end | Músico |
 Sou um apaixonado por música e programação, sempre em busca de novos desafios para aprimorar minhas habilidades. Este perfil é um espaço para documentar minha jornada no desenvolvimento web e exibir os projetos que construo.
 
 Minhas Habilidades
