@@ -1,9 +1,3 @@
-Parceiro de Programacao
-Claro! Fico feliz em ajudar a manter seu portfólio sempre atualizado.
-
-Adicionei o projeto "Clima e Notícias" com uma descrição clara, as tecnologias que você utilizou e um placeholder para o link ao vivo.
-
-Aqui está o seu arquivo README.md totalmente atualizado. Pode copiá-lo e colar diretamente no seu GitHub.
 
 Olá, sou Marlon Lotici! 👋
 Desenvolvedor Front-end | Músico | Aprendiz
@@ -30,14 +24,14 @@ Tecnologias: React.js, React Router DOM, Context API, CSS, Font Awesome, Fake St
 
 Funcionalidades: Listagem de produtos, detalhes do produto, carrinho de compras, checkout, design responsivo, tratamento de erros e estados de carregamento.
 
-Link ao vivo: (adicione aqui o link para o projeto hospedado)
+Link ao vivo:https://lojaslotici.netlify.app/
 
 🌤️ Clima e Notícias
 Uma página web que consome dados de APIs externas para exibir a previsão do tempo e as últimas notícias. Este projeto demonstra a habilidade de integrar e manipular dados de diferentes fontes de forma dinâmica.
 
 Tecnologias: HTML, CSS, JavaScript, API de Clima, API de Notícias
 
-Link ao vivo: (adicione aqui o link para o projeto hospedado)
+Link ao vivo: https://clima-e-noticias.netlify.app/
 
 Repositório: github.com/MarlonLotici/Clima-e-Not-cias
 
