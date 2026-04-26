@@ -32,6 +32,15 @@ O "Cérebro" por trás da automação comercial. Um sistema que utiliza **SPIN S
 #### 📊 [Neon Sales Analytics](https://github.com/MarlonLotici/enerzee-sdr-automation)
 Dashboard de alta performance para visualização de dados comerciais. Monitoramento de taxa de engajamento, visualização de funil SPIN e saúde de instâncias de WhatsApp.
 
+####⚡ Pulse IA — SDR Neural para Vendas
+Plataforma de Inteligência Artificial para prospecção e qualificação autônoma no WhatsApp.
+
+Tecnologia: Engine proprietária com arquitetura multi-agente e metodologia SPIN Selling.
+
+Impacto: Automatiza o topo do funil, entregando leads qualificados e agendados diretamente no CRM.
+
+Diferencial: Auditoria em tempo real e quebra de objeções baseada em contexto dinâmico.
+
 #### 🛍️ [Plataforma SDR para Energia Solar](https://assistente-de-simulacao-de-economia.netlify.app/)
 Assistente virtual interativo com foco em captura otimizada de leads e psicologia de vendas.
 
